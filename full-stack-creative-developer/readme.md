@@ -26,6 +26,6 @@ De web-applicatie moet voorzien worden van minimaal de volgende onderdelen. Hier
 
 ## Werkwijze
 
-Maak een fork van de desbetreffende repository en stuur een linkje naar developer@hulan.nl.
+Maak een fork van de desbetreffende repository en stuur een linkje naar jeffrey@hulan.nl.
 
 Veel succes! 🍺
