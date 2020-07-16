@@ -23,3 +23,7 @@ De web-applicatie moet voorzien worden van minimaal de volgende onderdelen. Hier
 - Een overzicht van alle brouwers waar je deze kan aanmaken, bewerken en verwijderen
 - Een overzicht van alle biertjes waar je deze kan aanmaken, bewerken en verwijderen
 - Een manier om biertjes aan brouwers die deze gaan verkopen te koppelen
+
+Stuur een linkje van je fork naar developer@hulan.nl.
+
+Veel succes! 🍺
