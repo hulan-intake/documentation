@@ -26,6 +26,6 @@ De web-applicatie moet voorzien worden van minimaal de volgende onderdelen. Hier
 
 ## Werkwijze
 
-Maak een fork van de desbetreffende template repository (or maak je eigen vanaf scratch) en stuur een linkje naar jeffrey@hulan.nl.
+Maak een fork van de [template repository](https://github.com/hulan-intake/front-end-template) (or maak je eigen vanaf scratch) en stuur een linkje naar jeffrey@hulan.nl.
 
 Veel succes! 🍺
