@@ -16,16 +16,23 @@ Jij gaat werken aan een mobile-first web-applicatie waar de product houder van H
 
 We hebben het een en ander al voor je klaar gezet. Meer informatie vindt je in de [wire-frame](https://github.com/hulan-intake/documentation/blob/master/creative-front-end-developer/resources/wire-frame.pdf?raw=true), [huisstijlhandboek](https://github.com/hulan-intake/documentation/blob/master/creative-front-end-developer/resources/huisstijl-handboek.pdf?raw=true) en [API documentatie](https://github.com/hulan-intake/documentation/blob/master/creative-front-end-developer/resources/api-documentatie.pdf?raw=true). Op basis van deze documenten kun je te werk gaan. De [Assets](https://github.com/hulan-intake/documentation/blob/master/creative-front-end-developer/resources/assets.zip?raw=true) bevatten een icoontje voor bier en het lettertype. Je krijgt van ons de credentials om in te loggen op de API.
 
-De web-applicatie moet voorzien worden van minimaal de volgende onderdelen. Hier mag je zelf natuurlijk dingen aan toevoegen en zelf bepalen hoe je deze aanpakt.
+De applicatie moet voorzien worden van de volgende onderdelen. Hier mag je zelf natuurlijk dingen aan toevoegen en zelf bepalen hoe je deze aanpakt.
 
+Verplichte onderdelen
 - Een mobile-first web-applicatie
-- Inloggen door middel van credentials
-- Een overzicht van alle brouwers waar je deze kan aanmaken, bewerken en verwijderen
-- Een overzicht van alle biertjes waar je deze kan aanmaken, bewerken en verwijderen
+- Inloggen met behulp van een gebruikersnaam en wachtwoord
+- Een overzicht van alle brouwers
+- Een detail aanzicht per brouwer waar je kan zien welke biertjes ze verkopen
+- Een overzicht van alle biertjes
+- Een detail aanzicht per biertje waar je kan zien bij welke brouwers ze te koop zijn
+
+Optionele onderdelen
+- Brouwers aanmaken, bewerken en verwijderen
+- Biertjes aanmaken, bewerken en verwijderen
 - Een manier om biertjes aan brouwers die deze gaan verkopen te koppelen
 
 ## Werkwijze
 
-Maak een fork van de [template repository](https://github.com/hulan-intake/front-end-template) (or maak je eigen vanaf scratch) en stuur een linkje naar jeffrey@hulan.nl.
+Maak een fork van de [template repository](https://github.com/hulan-intake/front-end-template) (of maak je eigen from scratch) en stuur een linkje naar jeffrey@hulan.nl.
 
 Veel succes! 🍺
